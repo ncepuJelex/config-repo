@@ -12,4 +12,4 @@ spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQL57InnoDBDia
 spring.jpa.hibernate.ddl-auto: "update"
 redis.server: "redis"
 redis.port: "6379"
-signing.key: "345345fsdfsf53451"
+signing.key: "345345fsdfsf5345"
